@@ -56,7 +56,7 @@ int main()
 	  //game start variables
 		player.p.x = 240;  /* player position is center horizontally on x axis */
 	  player.p.y = 140;	 /* player position is center vertically on y axis */
-		lives = 1;				 /* player start lives */
+		lives = 3;				 /* player start lives */
 	  shield = 5;				 /* initial shield strength is max */
 	  shieldfix = 0;		 /* set shield fix to zero - 1 bar of shield is replenished when this = 1000 */
 	  mainmenu = true;   /* start game with main menu screen */
