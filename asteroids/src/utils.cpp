@@ -1,3 +1,10 @@
+/*
+	Asteroids Assignment - Small Embedded Systems
+  Ross Lillistone 
+	W15021733
+	utils.h
+*/
+
 /* utility functions */
 #include <stdint.h>
 #include <stdlib.h>
