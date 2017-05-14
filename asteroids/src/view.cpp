@@ -163,7 +163,7 @@ void draw_end(void){
 	graphics->printf("YOU HAVE DIED");
 	graphics->setTextSize(2);
 	graphics->setCursor(100,145);
-	graphics->printf("YOUR SCORE IS IRRELEVANT");
+	graphics->printf("YOUR SCORE IS IRRELEVENT");
   graphics->setTextSize(2);
 	graphics->setCursor(90,220);
 	graphics->printf("PRESS RESET TO RELOAD GAME");
